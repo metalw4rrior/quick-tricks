@@ -1,4 +1,5 @@
 module github.com/metalw4rrior/quick-tricks
+replace github.com/indigo-sadland/quick-tricks => github.com/metalw4rrior/quick-tricks v0.0.0-xxxxxx
 
 go 1.19
 
