@@ -1,6 +1,6 @@
 module github.com/metalw4rrior/quick-tricks
 
-replace github.com/metalw4rrior/quick-tricks => github.com/metalw4rrior/quick-tricks v0.0.0-xxxxxx
+replace github.com/metalw4rrior/quick-tricks => github.com/metalw4rrior/quick-tricks v0.0.0-20250418115023-79f2ec95d3f4
 
 go 1.19
 
