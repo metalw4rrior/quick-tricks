@@ -1,6 +1,6 @@
 package main
 
-import "github.com/indigo-sadland/quick-tricks/cmd"
+import "github.com/metalw4rrior/quick-tricks/cmd"
 
 func main() {
 	cmd.Execute()

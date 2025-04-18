@@ -2,8 +2,8 @@ package cmd
 
 import (
 	"fmt"
-	"github.com/indigo-sadland/quick-tricks/modules/xss"
-	"github.com/indigo-sadland/quick-tricks/utils/colors"
+	"github.com/metalw4rrior/quick-tricks/modules/xss"
+	"github.com/metalw4rrior/quick-tricks/utils/colors"
 
 	"github.com/spf13/cobra"
 )

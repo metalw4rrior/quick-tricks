@@ -3,10 +3,10 @@ package cmd
 import (
 	"fmt"
 	"github.com/fatih/color"
-	"github.com/indigo-sadland/quick-tricks/modules/recon/license"
-	"github.com/indigo-sadland/quick-tricks/modules/recon/lp"
-	"github.com/indigo-sadland/quick-tricks/modules/recon/lpd"
-	"github.com/indigo-sadland/quick-tricks/utils/colors"
+	"github.com/metalw4rrior/quick-tricks/modules/recon/license"
+	"github.com/metalw4rrior/quick-tricks/modules/recon/lp"
+	"github.com/metalw4rrior/quick-tricks/modules/recon/lpd"
+	"github.com/metalw4rrior/quick-tricks/utils/colors"
 	"github.com/spf13/cobra"
 	"strings"
 )

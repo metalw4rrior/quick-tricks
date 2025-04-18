@@ -3,9 +3,9 @@ package he
 import (
 	"bytes"
 	"fmt"
-	"github.com/indigo-sadland/quick-tricks/modules/tokens"
-	"github.com/indigo-sadland/quick-tricks/utils/colors"
-	"github.com/indigo-sadland/quick-tricks/utils/netclient"
+	"github.com/metalw4rrior/quick-tricks/modules/tokens"
+	"github.com/metalw4rrior/quick-tricks/utils/colors"
+	"github.com/metalw4rrior/quick-tricks/utils/netclient"
 	"io"
 	"net/http"
 	"strings"

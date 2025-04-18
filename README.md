@@ -7,7 +7,7 @@
 ### Requirements
 * Go 1.19+
   ```
-  go install github.com/indigo-sadland/quick-tricks@latest
+  go install github.com/metalw4rrior/quick-tricks@latest
   ```
 ## Usage
 ```
