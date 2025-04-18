@@ -1,4 +1,4 @@
-module github.com/indigo-sadland/quick-tricks
+module github.com/metalw4rrior/quick-tricks
 
 go 1.19
 
